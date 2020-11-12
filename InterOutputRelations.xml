@@ -28,5 +28,14 @@
       <cfDef cfLangCode="en" cfTrans="o">Built on - is a form of succession - informally expressed.</cfDef>
       <cfDefSrc cfLangCode="en" cfTrans="o">CERIF Task Group</cfDefSrc>
     </cfClass>
+    <cfClass>
+      <cfClassId>5aea1cab-9a41-46ec-bef8-31f7362d97fe</cfClassId>
+      <cfTerm cfLangCode="en" cfTrans="o">Reference</cfTerm>
+      <cfTermSrc cfLangCode="en" cfTrans="o">CERIF Task Group</cfTermSrc>
+      <cfRoleExpr cfLangCode="en" cfTrans="o">references</cfRoleExpr>
+      <cfRoleExprOpp cfLangCode="en" cfTrans="o">is reference by</cfRoleExprOpp>
+      <cfDef cfLangCode="en" cfTrans="o">Output B is referenced since it contains the background for or is the subject of research described in output A.</cfDef>
+      <cfDefSrc cfLangCode="en" cfTrans="o">CERIF Task Group</cfDefSrc>
+    </cfClass>
   </cfClassScheme>
 </CERIF>
